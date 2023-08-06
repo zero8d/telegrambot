@@ -1,0 +1,19 @@
+{
+  "name": "telegrambottemplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "@grammyjs/i18n": "^1.0.1",
+    "@grammyjs/router": "^2.0.0",
+    "@grammyjs/storage-mongodb": "^2.3.0",
+    "dotenv": "^16.3.1",
+    "grammy": "^1.17.2",
+    "mongoose": "^7.4.2",
+    "typescript": "^5.1.6",
+    "winston": "^3.10.0"
+  }
+}
