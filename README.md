@@ -10,7 +10,7 @@ To get started with the Telegram bot, you'll need to perform the following steps
 2. Install the necessary dependencies: `npm install` or `yarn`
 3. Set up your Telegram bot token. You can obtain a token by creating a new bot on the [Telegram BotFather](https://core.telegram.org/bots#6-botfather) platform.
 4. Configure the bot token in the `.env` file.
-5. Start the bot by running: `node index.js`
+5. Start the bot by running: `npm start` or `yarn start`
 
 ## Usage
 
